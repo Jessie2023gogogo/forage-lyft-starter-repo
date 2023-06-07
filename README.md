@@ -1,3 +1,2 @@
 # Starter Repo
-This repo has everything you need to get started on the program, good luck!
-#Test connection
+This repo has everythin you need to get started on the program, good luck!
